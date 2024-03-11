@@ -1,5 +1,5 @@
-<h1 align = "center">TeachMeSkills_C27_lesson_18_HW</h1>
-<h4>Task1:</h4> The program creates a collection of the ArrayList class and fills it with random elements of type Integer.
+# TeachMeSkills_C27_lesson_18_HW
+Task1: The program creates a collection of the ArrayList class and fills it with random elements of type Integer.
 Using Streams:
 - Remove duplicates
 - Print all even elements in the range from 7 to 17 (inclusive)
@@ -11,13 +11,13 @@ Using Streams:
   <li>In the Runner class, the main method calls methods for working with Stream.</li>
   <li>The Service class contains methods for working with Stream.
   <ul>
-    <li>The inputArray method will populate the list with random integers.</li>
-    <li>The removingDuplicates method removes duplicates.</li>
-    <li>The utputElements method outputs all even elements in the range from 7 to 17 (inclusive).</li>
-    <li>The multiplicationElements method multiplies each element by 2.</li>
-    <li>The sortingElements method sorts and displays the first 4 elements.</li>
-    <li>The amountElements method displays the number of elements in the stream.</li>
-    <li>The average method displays the arithmetic average of all numbers in the stream</li>
+    <li>The createListInteger method will populate the list with random integers.</li>
+    <li>The removeDuplicates method removes duplicates.</li>
+    <li>The outputAllEvenElementsInTheRange7To17 method outputs all even elements in the range from 7 to 17 (inclusive).</li>
+    <li>The multiplyEachElementBy2 method multiplies each element by 2.</li>
+    <li>The sortAndDisplayTheFirst4ItemsOnTheScreen method sorts and displays the first 4 elements.</li>
+    <li>The printTheNumberOfItemsInTheStream method displays the number of elements in the stream.</li>
+    <li>The printTheArithmeticMeanOfAllNumbers method displays the arithmetic average of all numbers in the stream</li>
   </ul>
 </ul>
 <h4>Task2:</h4> The program creates a collection of the ArrayList class with the values of the names of all students in the group
